@@ -1,3 +1,4 @@
 # lista de jogos
-* [jogo preferido 1]
-* [jogos preferido 2] 
+* Need for speed
+* Call of duty
+* F1
