@@ -1,3 +1,4 @@
 # lista de jogos
-* [jogo preferido 1]
-* [jogos preferido 2] 
+* FIFA
+* Mortal Combat 
+* jogo 3
